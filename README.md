@@ -5,4 +5,6 @@ biometrics datasets provided by the Government of India & created a preprocessin
 for data cleaning and normalization. 
 - Developed state & district-level aggregations and a weighted Risk Scoring Framework to 
 pinpoint areas of operational stress for seasonal biometric surges. 
-- Demonstrated correlation of operational risk with volatility rather than raw volume. 
+- Demonstrated correlation of operational risk with volatility rather than raw volume.
+
+# Jupyter Notebook link and other details are mentioned in the report
