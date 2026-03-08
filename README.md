@@ -1,6 +1,6 @@
 # UIDAI-Biometric-Surge-Risk-Analysis-Nikhil
 
-- Processed and integrated 4.5M+ Aadhaar records from enrollment, demographics, and 
+ Processed and integrated 4.5M+ Aadhaar records from enrollment, demographics, and 
 biometrics datasets provided by the Government of India & created a preprocessing pipeline 
 for data cleaning and normalization.
 
